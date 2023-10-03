@@ -317,11 +317,11 @@ footer.line-footer{
     border-top: 2px solid #ffe4c4cf;
 }
 
-footer.line-footer p i{
+footer.line-footer p, i{
     color: #ffe4c4cf; 
     font-size: 22px;
 }
 
-footer.line-footer p a{
+footer.line-footer p, a{
     color: #fff;
 }
