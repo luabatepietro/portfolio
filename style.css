@@ -54,6 +54,7 @@ header{
 
 }
 
+
 header > .interface{
     display: flex;
     align-items: center;
@@ -110,6 +111,7 @@ section.topo-do-site.flex{
     margin: 40px 0;
 
 }
+    
 
 .topo-do-site .img-topo-site img{
     position: relative;
